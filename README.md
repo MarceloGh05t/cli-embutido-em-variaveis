@@ -13,7 +13,6 @@ Exemplo:
 
 ```
 var executa_cli = "start calc.exe";
-
 ```
 
 Depois bata salvar o arquivo usando o conteúdo desta variável com a extensão (.bat).
